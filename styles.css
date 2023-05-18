@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.mainTableData{
+	padding: 30px 0px;
+}
+table{
+	border: 1px solid black;
+	width: 100%;
+}
+
+tr, th, td{
+	border: 1px solid black;
+	text-align: center;
+	
+}
